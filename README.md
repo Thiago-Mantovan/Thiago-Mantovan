@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Front-end focado em interfaces modernas, acessíveis e bem pensadas  
 🎨 Forte interesse em Design, UX/UI e experiências visuais  
-📍 São Paulo - SP
+📍 Adolfo - SP
 
 ---
 
