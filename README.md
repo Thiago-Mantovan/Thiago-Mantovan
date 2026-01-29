@@ -28,7 +28,7 @@
 ## 🌐 Onde me encontrar
 - 📧 Email: thiagomantovan.de.souza@gmail.com  
 - 💼 LinkedIn: https://github.com/Thiago-Mantovan
-- 🌍 Portfólio: https://thiago-mantovan.github.io/Portif-lio/
+- 🌍 Portfólio: https://thiago-mantovan.github.io/Portifolio/
 
 ---
 
