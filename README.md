@@ -24,6 +24,31 @@
 📈 Aprendendo constantemente e colocando tudo em prática com projetos reais
 
 ---
+## 📄 Currículo
+
+🎓 **Formação**
+- Técnico em Multimídia — SENAI  
+- HTML, CSS e JavaScript — Cisco Networking Academy  
+
+💼 **Experiência**
+- Manutenção e atualização de sites  
+- Apoio em marketing digital  
+- Desenvolvimento de interfaces front-end responsivas  
+
+🛠 **Habilidades**
+- HTML, CSS, JavaScript, React  
+- Git & GitHub  
+- Figma e noções de UX/UI  
+
+🎯 **Objetivo**
+- Atuar como **Desenvolvedor Front-end Júnior**, evoluindo tecnicamente e contribuindo com projetos reais  
+
+📎 **Currículo (PDF)**  
+👉<a href="https://github.com/Thiago-Mantovan/curriculo.git" target="_blank" rel="noopener noreferrer">
+Clique aqui para visualizar ou baixar
+</a>
+
+---
 
 ## 🌐 Onde me encontrar
 - 📧 Email: <a href="mailto:thiagomantovan.de.souza@gmail.com" target="_blank">thiagomantovan.de.souza@gmail.com</a>  
