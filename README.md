@@ -52,7 +52,7 @@ Clique aqui para visualizar ou baixar
 
 ## 🌐 Onde me encontrar
 - 📧 Email: <a href="mailto:thiagomantovan.de.souza@gmail.com" target="_blank">thiagomantovan.de.souza@gmail.com</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/thiago-mantovan-a238a33a7/">https://www.linkedin.com/in/thiago-mantovan-a238a33a7/</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/thiago-mantovan-a238a33a7/">linkedin.com/in/thiago-mantovan-a238a33a7/</a>  
 - 🌍 Portfólio: <a href="https://thiago-mantovan.github.io/Portifolio/" target="_blank">thiago-mantovan.github.io/Portifolio</a>
 
 ---
